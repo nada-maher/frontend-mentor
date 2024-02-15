@@ -1,0 +1,74 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+    height: 100vh;
+   
+   
+}
+.total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.left{
+    background-color: hsl(244, 38%, 16%);
+    padding: 40px;
+    padding-right: 60px;
+    width: 30%;
+    height: 40vh;
+   
+   
+}
+.statementone{
+    font-size: 35px;
+    color: white;
+}
+.statementone a{
+    color: hsl(277, 64%, 61%);
+}
+.statementtwo{
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.right{
+    background: url(./images/image-header-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color:hsl(277, 64%, 61%) ;
+    width: 35%;
+    height: 50.7vh;
+
+
+}
+.all{
+    display: flex;
+
+}
+.one {
+    color: hsla(0, 0%, 100%, 0.6);
+    margin-right: 50px;
+    
+}
+.one h3{
+    color: white;
+}
+.two{
+    color: hsla(0, 0%, 100%, 0.6);
+    margin-right: 50px;
+}
+.two h3{
+    color: white;
+    
+}
+.three {
+    color: hsla(0, 0%, 100%, 0.6);
+    margin-right: 50px;
+}
+.three h3{
+    color: white;
+}
+.onee{
+    background-color:hsl(277deg 64% 61% / 73%); 
+    width: 100%;
+    height: 100%;
+}
